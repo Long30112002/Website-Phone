@@ -1,0 +1,16 @@
+.row .admin_image {
+    width: 100px;
+    object-fit: contain;
+}
+
+.logo {
+    width: 7%;
+    height: 7%;
+    border-radius: 100%;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+}
+
